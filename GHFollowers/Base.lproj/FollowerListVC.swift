@@ -1,5 +1,5 @@
 //
-//  FollowerListVCViewController.swift
+//  FollowerListVC.swift
 //  GHFollowers
 //
 //  Created by Pritesh on 18/06/26.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class FollowerListVCViewController: UIViewController {
+class FollowerListVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
